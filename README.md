@@ -15,7 +15,7 @@ Hallucinations in LLMs refer to confidently generated but **factually incorrect 
 2. **Reduction**: Mitigate hallucinations using:
    - **Retrieval Augmented Generation (RAG)** with **LangChain**, **Pinecone**, and **Together API**
 
----
+
 
 ## 📊 Key Results
 
@@ -35,7 +35,7 @@ Models Tested: **LLaMA**, **Gemma**, **Qwen**, **Mistral**, **Bloom**
   <img src="images/rag_llama.png" width="33%" alt="Image 2"/>
   <img src="images/rag_gemma.png" width="33%" alt="Image 3"/>
 </p>
----
+
 
 ## 🧰 Tech Stack
 
