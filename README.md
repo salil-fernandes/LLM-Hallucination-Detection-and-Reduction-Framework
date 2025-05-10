@@ -29,6 +29,9 @@ Models Tested: **LLaMA**, **Gemma**, **Qwen**, **Mistral**, **Bloom**
 
 <p align="center">
   <img src="images/f1_detection.png" alt="Detection F1" width="600"/>
+</p>
+<p align="center">
+  <img src="images/f1_detection.png" alt="Detection F1" width="600"/>
   <img src="images/rag_mistral.png" width="33%" alt="Image 1"/>
   <img src="images/rag_llama.png" width="33%" alt="Image 2"/>
   <img src="images/rag_gemma.png" width="33%" alt="Image 3"/>
