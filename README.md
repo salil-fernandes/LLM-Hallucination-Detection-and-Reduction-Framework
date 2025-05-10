@@ -28,3 +28,20 @@ Hallucinations in LLMs refer to confidently generated but **factually incorrect 
 Models Tested: **LLaMA**, **Gemma**, **Qwen**, **Mistral**, **Bloom**
 
 ---
+
+## 🧰 Tech Stack
+
+- Python (Transformers, HuggingFace, Wikipedia-API, GPT-2)
+- RoBERTa (NLI)
+- GPT-2 (Entropy scoring)
+- LangChain, Pinecone, Together API (RAG)
+- Jupyter Notebooks
+
+---
+
+## 📌 Future Work
+
+- Benchmark against other open LLMs (e.g., Falcon, Orca).
+- Support multimodal hallucination detection.
+
+---
