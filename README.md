@@ -45,7 +45,6 @@ Models Tested: **LLaMA**, **Gemma**, **Qwen**, **Mistral**, **Bloom**
 - LangChain, Pinecone, Together API (RAG)
 - Jupyter Notebooks
 
----
 
 ## 📌 Future Work
 
