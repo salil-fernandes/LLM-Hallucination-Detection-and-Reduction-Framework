@@ -1,6 +1,5 @@
 # 🧠 LLM Hallucination Detection and Reduction Framework
-### CSCI 544 Applied Natural Language Processing (NLP) Project
-### USC Spring 2025
+### CSCI 544 Applied Natural Language Processing (NLP) Project - USC Spring 2025
 
 This project implements a comprehensive framework to **detect and reduce hallucinations** in Large Language Models (LLMs) using a multi-stage pipeline involving NLI-based inference, entropy-based uncertainty, and retrieval-augmented generation (RAG).
 
