@@ -22,9 +22,9 @@ Hallucinations in LLMs refer to confidently generated but **factually incorrect 
 | Metric                          | Value   |
 |--------------------------------|---------|
 | Average Detection Accuracy     | **87%** |
-| Average F1 Score               | **78%** |
+| Average Detection F1 Score               | **78%** |
 | Average Hallucination Reduction | **39%** |
 
-Tested across multiple models: **LLaMA**, **Gemma**, **Qwen**, **Mistral**, **Bloom**
+Models Tested: **LLaMA**, **Gemma**, **Qwen**, **Mistral**, **Bloom**
 
 ---
