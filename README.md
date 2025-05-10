@@ -27,6 +27,7 @@ Hallucinations in LLMs refer to confidently generated but **factually incorrect 
 
 Models Tested: **LLaMA**, **Gemma**, **Qwen**, **Mistral**, **Bloom**
 
+<img src="images/f1_detection.png" alt="Pipeline Diagram" width="600"/>
 ---
 
 ## 🧰 Tech Stack
